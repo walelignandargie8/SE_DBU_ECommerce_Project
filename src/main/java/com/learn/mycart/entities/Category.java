@@ -79,5 +79,8 @@ public class Category {
 		return "Category [categoryId=" + categoryId + ", categoryTitle=" + categoryTitle + ", categoryDescriptioin="
 				+ categoryDescriptioin + "]";
 	}
+public void getAccount(String accountName){
+
+}
 	
 }
