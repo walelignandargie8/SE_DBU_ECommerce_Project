@@ -137,7 +137,10 @@ public class Product {
 	}
 	
 	
-	
+	public void amir(string name)
+	{
+		system.out.println("hello i am amir")
+	}
 	
 	
 	
