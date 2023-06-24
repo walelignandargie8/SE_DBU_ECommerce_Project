@@ -1,0 +1,22 @@
+     <script language="javascript">
+
+var x =window.prompt("enter the first number")
+x=Number(x)
+var y =window.prompt("enter the second number")
+y=Number(y)
+var z =window.prompt("enter the third number")
+z=Number(z)
+if(Number(x)>Number(y)&&Number(z))
+{
+    document.write("the maximum number is " +Number(x))
+}
+else if(Number(y)>Number(z))
+{
+    document.write("the maximum number is " +Number(y))
+}
+else
+{
+    document.write("the maximum number is " +Number(z))
+}
+
+      </script>

@@ -1,4 +1,0 @@
-public void change (int number)
-{
-this change is made by me
-}
